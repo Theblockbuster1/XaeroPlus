@@ -32,7 +32,7 @@
   "depends": {
     "fabricloader": ">=0.19.2",
     "minecraft": "~26.1",
-    "xaeroworldmap": "${worldmap_version}"
+    "xaeroworldmap": "1.40.17"
   },
   "custom": {
     "minimap_version": "${minimap_version}",
